@@ -30,19 +30,19 @@
 }
 
 #primary-menu.no-responsive > li > a {
-	font-family: 'Roboto';
+	font-family: 'Lato';
 }
 
 #primary-menu.no-responsive > li > a {
-	font-weight: 300;
+	font-weight: normal;
 }
 
 #primary-menu.no-responsive > li > a {
-	font-size: 17px;
+	font-size: 14px;
 }
 
 #primary-menu.no-responsive > li > a {
-	line-height: 20px;
+	line-height: 18px;
 }
 
 #primary-menu.no-responsive > li.megamenu-enable > ul li,
@@ -53,10 +53,10 @@
 .widget_categories > ul,
 .widget_product_categories > ul,
 .widget_pages > ul {
-	font-family: 'Roboto';
+	font-family: 'Lato';
 }
 .primary-navigation.responsive li a {
-	font-family: 'Roboto';
+	font-family: 'Lato';
 }
 
 #primary-menu.no-responsive > li.megamenu-enable > ul li,
@@ -82,10 +82,10 @@
 .widget_categories > ul,
 .widget_product_categories > ul,
 .widget_pages > ul {
-	font-size: 17px;
+	font-size: 13px;
 }
 .primary-navigation.responsive li a {
-	font-size: 17px;
+	font-size: 13px;
 }
 
 #primary-menu.no-responsive > li.megamenu-enable > ul li,
@@ -96,10 +96,10 @@
 .widget_categories > ul,
 .widget_product_categories > ul,
 .widget_pages > ul {
-	line-height: 30px;
+	line-height: 24px;
 }
 .primary-navigation.responsive li a {
-	line-height: 30px;
+	line-height: 24px;
 }
 
 .styled-subtitle,
@@ -133,7 +133,7 @@ input[type="text"].coupon-code,
 .entry-title,
 .blog-style-timeline .post-time,
 .sc-dropcap.sc-dropcap-style-medium {
-	font-family: 'Source Sans Pro';
+	font-family: 'Lato';
 }
 
 .styled-subtitle,
@@ -226,7 +226,7 @@ input[type="text"].coupon-code,
 }
 
 .blog article .entry-title {
-	font-family: 'Source Sans Pro';
+	font-family: 'Lato';
 }
 
 .blog article .entry-title {
@@ -259,7 +259,7 @@ input[type="text"].coupon-code,
 
 h1,
 .title-h1 {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 h1,
@@ -280,7 +280,7 @@ h1,
 h2,
 .title-h2,
 .single-product-content .price {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 h2,
@@ -306,7 +306,7 @@ h3,
 .woocommerce table.shop_table.order-details tr.cart_item td.product-total .amount,
 .woocommerce table.shop_table.order-details tr.order_item td.product-total .amount,
 .sc-dropcap {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 h3,
@@ -340,11 +340,11 @@ h4,
 .portfolio.columns-1 .portfolio-item .caption .title,
 h3.comment-reply-title,
 .single-product-content .price del {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 @media only screen and (min-width: 992px) and (max-width: 1150px) {
 	.with-sidebar .portfolio.hover-horizontal-sliding .overlay .links .caption .title {
-		font-family: 'Roboto Condensed';
+		font-family: 'Lato';
 	}
 }
 
@@ -398,7 +398,7 @@ h5,
 .woocommerce table.shop_table.order-details thead tr th.product-total,
 .resp-tabs-list li,
 .vc_tta-tabs .vc_tta-title-text {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 h5,
@@ -454,7 +454,7 @@ h6,
 .widget_archive li,
 .wpb_toggle,
 .vc_toggle_title h4 {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 h6,
@@ -496,7 +496,7 @@ option,
 .gallery-item .overlay .subtitle,
 .cart_totals table .shipping td label,
 .woocommerce-cart-form.responsive .cart-item .sc-table .shop_table td.product-price {
-	font-family: 'Source Sans Pro';
+	font-family: 'Lato';
 }
 
 body,
@@ -505,7 +505,7 @@ option,
 .gallery-item .overlay .subtitle,
 .cart_totals table .shipping td label,
 .woocommerce-cart-form.responsive .cart-item .sc-table .shop_table td.product-price {
-	font-weight: 300;
+	font-weight: normal;
 }
 
 body,
@@ -517,7 +517,7 @@ option,
 .cart_totals table .shipping td label,
 .woocommerce-cart-form.responsive .cart-item .sc-table .shop_table td.product-price,
 .portfolio-filters a {
-	font-size: 19px;
+	font-size: 14px;
 }
 
 body,
@@ -529,7 +529,7 @@ option,
 }
 
 .widget-title {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 .widget-title {
@@ -548,7 +548,7 @@ option,
 input[type='submit'],
 .blog-load-more button,
 .price_slider_amount .button {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 .sc-button,
@@ -574,7 +574,7 @@ input[type='submit'],
 }
 
 .sc-nivoslider-title {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 .sc-nivoslider-title {
@@ -590,7 +590,7 @@ input[type='submit'],
 }
 
 .sc-nivoslider-description {
-	font-family: 'Roboto';
+	font-family: 'Lato';
 }
 
 .sc-nivoslider-description {
@@ -611,7 +611,7 @@ input[type='submit'],
 .fancybox-title .slide-info-title,
 .blog-style-default article.sticky .sticky-label,
 .blog.blog-style-masonry article .description .title {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 .portfolio-item-title,
@@ -645,7 +645,7 @@ input[type='submit'],
 .portfolio-item .caption .subtitle,
 .fancybox-title .slide-info-summary,
 .blog.blog-style-masonry article .description .summary {
-	font-family: 'Source Sans Pro';
+	font-family: 'Lato';
 }
 
 .portfolio-item-description,
@@ -671,7 +671,7 @@ input[type='submit'],
 
 .quickfinder-item-title,
 .project_info-item-style-2 .title {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 .quickfinder-item-title,
@@ -690,7 +690,7 @@ input[type='submit'],
 }
 
 .quickfinder-item-text {
-	font-family: 'Source Sans Pro';
+	font-family: 'Lato';
 }
 
 .quickfinder-item-text {
@@ -707,7 +707,7 @@ input[type='submit'],
 
 .gallery-title,
 .sc-gallery-item-title {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 .gallery-title,
@@ -727,7 +727,7 @@ input[type='submit'],
 
 .gallery-description,
 .sc-gallery-item-description {
-	font-family: 'Source Sans Pro';
+	font-family: 'Lato';
 }
 
 .gallery-description,
@@ -746,7 +746,7 @@ input[type='submit'],
 }
 
 .pricing-price {
-	font-family: 'Roboto';
+	font-family: 'Lato';
 }
 
 .pricing-cost {
@@ -763,7 +763,7 @@ input[type='submit'],
 
 .sc-testimonial-text,
 .testimonials-style-1-text {
-	font-family: 'Source Sans Pro';
+	font-family: 'Lato';
 }
 
 .sc-testimonial-text,
@@ -787,7 +787,7 @@ input[type='submit'],
 
 .sc-counter-number,
 .diagram-circle .text div span {
-	font-family: 'Roboto';
+	font-family: 'Lato';
 }
 
 .sc-counter-number,
@@ -807,7 +807,7 @@ input[type='submit'],
 .products .product-info .price .amount,
 .widget_shopping_cart_content .quantity,
 .widget_shopping_cart_content .total .amount {
-	font-family: 'Roboto';
+	font-family: 'Lato';
 }
 
 .products .product-info .price ins,
@@ -828,7 +828,7 @@ input[type='submit'],
 }
 
 .pricing-column-top-choice .pricing-column-top-choice-text {
-	font-family: 'Roboto Condensed';
+	font-family: 'Lato';
 }
 
 .pricing-column-top-choice .pricing-column-top-choice-text {
@@ -965,7 +965,7 @@ div.blog article a.self_video:after {
 
 #footer-nav,
 #colophon .sc-custom-mailchimp input[type="email"] {
-	background-color: #2c2e3a;
+	background-color: #ffffff;
 }
 
 .sc-dummy,
@@ -1596,7 +1596,7 @@ form.cart .quantity .minus,
 .blog-style-default article.sticky .sticky-label:after,
 #primary-menu.no-responsive > li.megamenu-enable > ul > li .mega-label,
 #primary-navigation #primary-menu > li.menu-item-cart > a .minicart-item-count {
-	background-color: #ff7070;
+	background-color: #76b0bc;
 }
 .comment-reply-link:before,
 .comment-form label em,
@@ -1642,40 +1642,40 @@ h4.wpb_toggle_title_active:after,
 #colophon .widget_submenu > div > ul li.menu-item-current > a,
 #colophon .widget_nav_menu ul.menu li.menu-item-active > a,
 #colophon .widget_submenu > div > ul li.menu-item-active > a {
-	color: #ff7070;
+	color: #76b0bc;
 }
 #primary-navigation #primary-menu > li.menu-item-cart > a .minicart-item-count:after {
-	border-top-color: #ff7070;
+	border-top-color: #76b0bc;
 }
 
 #primary-menu.no-responsive > li > a,
 .products .product-bottom .add_to_cart_button:before,
 .widget_product_search #searchsubmit {
-	color: #4C5867;
+	color: #000000;
 }
 
 #primary-menu.no-responsive > li:hover > a,
 #primary-menu.no-responsive > li li.menu-item-parent > a:after,
 .portfolio-filters-resp ul li:after {
-	color: #58ABB7;
+	color: #000000;
 }
 #primary-menu.no-responsive > li > ul > li> ul a:hover,
 #primary-menu.no-responsive > li > ul > li> ul li.menu-item-active > a,
 #primary-menu.no-responsive > li > ul > li> ul li.menu-item-current > a,
 .widget_nav_menu ul.menu ul li.menu-item-active > a,
 .widget_submenu > div > ul ul li.menu-item-active > a {
-	background-color: #58ABB7;
+	background-color: #000000;
 }
 .primary-navigation.responsive li.menu-item-parent > a:after,
 .primary-navigation.responsive li.menu-item-parent > span > a:after,
 .primary-navigation.responsive li.dl-back:after,
 .primary-navigation.responsive li.dl-parent > a:after {
-	color: #58ABB7;
+	color: #000000;
 }
 
 #primary-menu.no-responsive > li.menu-item-current > a,
 #primary-menu.no-responsive > li.menu-item-active > a {
-	color: #58ABB7;
+	color: #000000;
 }
 
 
@@ -1687,10 +1687,10 @@ h4.wpb_toggle_title_active:after,
 .widget_categories > ul li > a,
 .widget_product_categories > ul li > a,
 .widget_pages > ul li > a {
-	color: #4C5867;
+	color: #000000;
 }
 .primary-navigation.responsive li a {
-	color: #4C5867;
+	color: #000000;
 }
 
 #primary-menu.no-responsive > li > ul > li:hover > a,
@@ -1713,10 +1713,10 @@ h4.wpb_toggle_title_active:after,
 .widget_pages > ul li.current_page_ancestor > a,
 .widget_pages > ul li.current_page_parent > a,
 .widget_pages > ul li.current_page_item > a {
-	color: #58ABB7;
+	color: #000000;
 }
 .primary-navigation.responsive li a:hover {
-	color: #58ABB7;
+	color: #000000;
 }
 
 #primary-menu.no-responsive > li > ul > li > a,
@@ -1888,7 +1888,7 @@ a:hover {
 }
 
 a:active {
-	color: #418f9a;
+	color: #000000;
 }
 
 #footer-navigation li a {
@@ -1904,7 +1904,7 @@ a:active {
 }
 
 .page-title-block {
-	background-color: #58ABB7;
+	background-color: #ffffff;
 }
 
 .page-title-block,
@@ -2025,17 +2025,17 @@ input[type='submit'],
 .blog-load-more button,
 .blog-style-default .comments-link a,
 .price_slider_amount .button {
-	background-color: #58abb7;
+	background-color: #76b0bc;
 }
 .checkbox-sign.checked:before {
-	color: #58abb7;
+	color: #76b0bc;
 }
 .blog-load-more .sc-button-separator,
 .blog-load-more .sc-button-separator,
 .portfolio-load-more .sc-button-separator,
 .portfolio-load-more .sc-button-separator {
-	border-top: 1px solid #58abb7;
-	border-bottom: 1px solid #58abb7;
+	border-top: 1px solid #76b0bc;
+	border-bottom: 1px solid #76b0bc;
 }
 
 .sc-button:hover,
@@ -2392,12 +2392,137 @@ textarea,
 
 
 #colophon {
-	background-image: url('/measureone/wp-content/themes/scalia/images/footer-bg.png');
+	background-image: url('http://localhost/measureone/wp-content/uploads/2018/01/whitebg.png');
 }
 
 .preloader:after,
 .loading:after {
 	background-image: url('http://localhost/measureone/wp-content/themes/scalia/images/preloader-2.gif');
+}
+
+/* Adjust Homepage Padding */
+#news .vc_row-has-fill+.vc_row>.vc_column_container>.vc_column-inner {
+   padding-top: 15px;
+}
+
+/* Hide Footer Nav */
+#footer-nav {
+   padding: 0;
+}
+
+/* Style Homepage News Items */
+#news .vc_grid-item-mini {
+   padding: 0 0 0 0;
+}
+
+#news .vc_grid-item-mini .vc_gitem-col {
+padding: 10px 20px 0px 20px;
+}
+
+#news p {
+   padding: 0 0 .75em;
+}
+
+#news .vc_gitem-animated-block  {
+   float: left;
+   width: 40%;
+}
+
+#news .vc_custom_1419240516480 {
+   float: left;
+   width: 60%;
+}
+
+#news .vc_custom_1419240516480 .vc_gitem-post-data {
+   margin: 0;
+}
+
+#news .vc_custom_1419240516480 p {
+   padding: 0;
+   margin: 0;
+}
+
+#news .vc_custom_1419240516480 .vc_btn3-container {
+   margin-bottom: 10px;
+}
+
+#news .vc_custom_1419240516480 h4 {
+   font-size: 18px;
+   font-weight: 500;
+   margin: 0;
+}
+
+/* Style Homepage Body Fonts */
+#services p {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+/* Style Homepage Headers */
+.hp-heading {
+   letter-spacing: 5px;
+   font-weight: 500;
+}
+
+#services h4 {
+   font-size: 18px;
+   font-weight: 900;
+}
+
+/* Remove Padding from Blocks */
+#main .block-content {
+   padding: 0;
+}
+/* Footer Text Alignment, Colors, etc. */
+#colophon #custom_html-2 {
+   text-align: center;
+   color: #000000;
+}
+
+#colophon #custom_html-2 a {
+   color: #000000;
+}
+
+#colophon #custom_html-2 a:hover {
+   text-decoration: underline;
+   font-weight: bold;
+}
+
+/* Alter homepage button colors */
+
+.vc_btn3-container .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat:focus, .vc_btn3-container .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat:hover, .vc_btn3-container .vc_btn3.vc_btn3-color-juicy-pink:focus, .vc_btn3.vc_btn3-color-juicy-pink:hover {
+   background-color: #6898a2;
+}
+
+.vc_btn3-container .vc_btn3.vc_btn3-color-juicy-pink, .vc_btn3-container .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat {
+   background-color: #76b0bc;
+}
+
+#services .vc_btn3-container {
+margin-top: 40px;
+margin-bottom: 0px;
+}
+
+/* Remove Color From Services Boxes */
+.vc_grid-item-mini .vc_custom_1419240516480 {
+   background-color: #ffffff !important;
+}
+
+/* Set the size of the services homepage icons */
+
+#services .vc_gitem-animated-block  {
+   width: 50px;
+}
+
+/* Style the boxes in the services grid */
+.vc_grid-item-mini {
+    border: 2px solid #e8e1d5;
+    border-radius: 5px;
+    padding: 20px 15px 20px 15px;
+}
+
+.vc_custom_1419240516480 {
+   background: #ffffff !important;
 }
 
 body.home .slideshow-preloader {
