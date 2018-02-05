@@ -2400,9 +2400,40 @@ textarea,
 	background-image: url('http://localhost/measureone/wp-content/themes/scalia/images/preloader-2.gif');
 }
 
+/* Expand the navigation */
+.site-header .container {
+   width: 100%;
+}
+
+/* Navigation formatting */
+.tagline {
+display: table-cell;
+font-size: 18px;
+}
+
+.site-logo {
+display: table-cell;
+}
+
+/* Adjustments to allow for full width rows */
+.home-page .container {
+ width: 100%;
+} 
+
 /* Adjust Homepage Padding */
 #news .vc_row-has-fill+.vc_row>.vc_column_container>.vc_column-inner {
    padding-top: 15px;
+}
+
+/* Change color of slider navigational arrows */
+.home .ls-v6 .ls-nav-prev:after, .home .ls-v6 .ls-nav-prev:hover:after  {
+   border-top-color: #323232 !important;
+   border-left-color: #323232 !important;
+}
+
+.home .ls-v6 .ls-nav-next:after, .home .ls-v6 .ls-nav-next:hover:after {
+   border-right-color: #323232 !important;
+   border-top-color: #323232 !important;
 }
 
 /* Hide Footer Nav */
@@ -2410,12 +2441,18 @@ textarea,
    padding: 0;
 }
 
+/* Center the home page rows */
+#services, #news, #mission {
+margin-left: auto;
+margin-right: auto;
+}
+
 /* Style Homepage News Items */
 #news .vc_grid-item-mini {
    padding: 0 0 0 0;
 }
 
-#news .vc_grid-item-mini .vc_gitem-col {
+#news  .vc_grid-item-mini .vc_gitem-col {
 padding: 10px 20px 0px 20px;
 }
 
@@ -2423,17 +2460,17 @@ padding: 10px 20px 0px 20px;
    padding: 0 0 .75em;
 }
 
-#news .vc_gitem-animated-block  {
+#news .vc_pageable-slide-wrapper > .vc_grid-item:nth-child(2) .vc_gitem-animated-block, #news .vc_pageable-slide-wrapper > .vc_grid-item:nth-child(3) .vc_gitem-animated-block   {
    float: left;
    width: 40%;
 }
 
-#news .vc_custom_1419240516480 {
+#news .vc_pageable-slide-wrapper > .vc_grid-item:nth-child(2) .vc_custom_1419240516480, #news .vc_pageable-slide-wrapper > .vc_grid-item:nth-child(3) .vc_custom_1419240516480 {
    float: left;
    width: 60%;
 }
 
-#news .vc_custom_1419240516480 .vc_gitem-post-data {
+#news .vc_pageable-slide-wrapper > .vc_grid-item:nth-child(2) .vc_custom_1419240516480 .vc_gitem-post-data, #news .vc_pageable-slide-wrapper > .vc_grid-item:nth-child(3) .vc_custom_1419240516480 .vc_gitem-post-data {
    margin: 0;
 }
 
@@ -2442,7 +2479,7 @@ padding: 10px 20px 0px 20px;
    margin: 0;
 }
 
-#news .vc_custom_1419240516480 .vc_btn3-container {
+#news .vc_pageable-slide-wrapper > .vc_grid-item:nth-child(2) .vc_custom_1419240516480 .vc_btn3-container, #news .vc_pageable-slide-wrapper > .vc_grid-item:nth-child(3) .vc_custom_1419240516480 .vc_btn3-container {
    margin-bottom: 10px;
 }
 
@@ -2528,7 +2565,11 @@ margin-bottom: 0px;
 body.home .slideshow-preloader {
 	height: 600px;
 }
-@media (max-width: 1259px) {
+
+@media (min-width: 1500px) {
+    #services, #mission, #news {
+      width: 1470px;
+}
 	body.home .slideshow-preloader {
 		height: 480px;
 	}
